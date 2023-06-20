@@ -12,7 +12,7 @@ function main(language) {
   
   if (language === 'Hungarian') {
     console.log('cicc-cicc');
-  } else if (language === 'chinese'){
+  } else if (language === 'Chinese'){
     console.log('miao-miao');
   } else {
     console.log('language:', language)
